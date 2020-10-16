@@ -1,7 +1,6 @@
 # Pong
 A simple  pong game using pygame
-# Born_to_Drive
- An unbeatable car drift game
+
 
 ## Built with
 - [python](https://www.python.org/)
