@@ -56,7 +56,7 @@ clock = pygame.time.Clock()
 screen_width = 1280
 screen_height = 720
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('Ping pong')
+pygame.display.set_caption('Pong')
 
 # Rectangles
 ball = pygame.Rect(screen_width // 2 - 15, screen_height // 2 - 15, 30, 30)
